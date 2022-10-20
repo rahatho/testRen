@@ -1,16 +1,28 @@
-﻿
-define s = Character('Sylvie', color="#c8ffc8")
+﻿define s = Character('Sylvie', color="#c8ffc8")
 define m = Character('Me', color="#c8c8ff")
 
-
 label start:
+    
+    scene bg meadow
+    "After a short while, we reach the meadows just outside the neighborhood where we both live."
 
-    s "Hi there! How was class?"
+    "It's a scenic view I've grown used to. Autumn is especially beautiful here."
 
-    m "Good..."
+    "When we were children, we played in these meadows a lot, so they're full of memories."
 
-    "I can't bring myself to admit that it all went in one ear and out the other."
+    m "Hey... Umm..."
 
-    s "Are you going home now? Wanna walk back with me?"
+    show sylvie green smile
 
-    m "Sure!"
+    "She turns to me and smiles. She looks so welcoming that I feel my nervousness melt away."
+
+    "I'll ask her...!"
+
+    m "Ummm... Will you..."
+
+    m "Will you be my artist for a visual novel?"
+
+    show sylvie green surprised
+
+    "Silence."
+    
