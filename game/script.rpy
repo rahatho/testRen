@@ -1,11 +1,16 @@
-﻿label start:
+﻿
+define s = Character('Sylvie' color="#c8ffc8")
+define m = Character('Me' color="#c8c8ff")
 
-    "Sylvie" "Hi there! How was class?"
 
-    "Me" "Good..."
+label start:
+
+    s "Hi there! How was class?"
+
+    m "Good..."
 
     "I can't bring myself to admit that it all went in one ear and out the other."
 
-    "Me" "Are you going home now? Wanna walk back with me?"
+    s "Are you going home now? Wanna walk back with me?"
 
-    "Sylvie" "Sure!"
+    m "Sure!"
