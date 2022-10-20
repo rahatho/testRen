@@ -1,0 +1,14 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 2: invalid syntax
+    Character('Sylvie' color="#c8ffc8")
+                        ^
+
+File "game/script.rpy", line 3: invalid syntax
+    Character('Me' color="#c8c8ff")
+                    ^
+
+Ren'Py Version: Ren'Py 8.0.3.22090809
+Thu Oct 20 15:53:47 2022

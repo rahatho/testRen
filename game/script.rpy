@@ -1,6 +1,6 @@
 ﻿
-define s = Character('Sylvie' color="#c8ffc8")
-define m = Character('Me' color="#c8c8ff")
+define s = Character('Sylvie', color="#c8ffc8")
+define m = Character('Me', color="#c8c8ff")
 
 
 label start:
